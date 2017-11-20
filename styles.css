@@ -40,9 +40,10 @@ a:hover, a:active {
     margin: 0 auto;
 }
 .mainheader ul li {
-    
     width: 100%;
     text-align: center;
+    float: left;
+    display: inline;
 }
 .mainheader nav a:link, .mainheader nav a:visited {
     color: #FFF;
